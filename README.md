@@ -40,10 +40,10 @@
 
 ## 🚀 Créditos
 
-- * Este proyecto utiliza la [PokéAPI](https://pokeapi.co/) como fuente principal de datos.* 
-- * Agradecimientos al equipo detrás de esta increíble API.* 
-- * Agradecer al equipo de [freecodecamp](https://www.freecodecamp.org/) por crear tanto contenido de calidad.*
-- * Agradecer al equipo de [freecodecamp.org/espanol/news](https://www.freecodecamp.org/espanol/) y en especial a  Capi coder, www.youtube.com/@carpicoder por crear este tutorial-proyecto.*
+* Este proyecto utiliza la [PokéAPI](https://pokeapi.co/) como fuente principal de datos.
+* Agradecimientos al equipo detrás de esta increíble API.
+* Agradecer al equipo de [freecodecamp](https://www.freecodecamp.org/) por crear tanto contenido de calidad.
+* Agradecer al equipo de [freecodecamp.org/espanol/news](https://www.freecodecamp.org/espanol/) y en especial a  Capi coder, www.youtube.com/@carpicoder por crear este tutorial-proyecto.
 
 ---
 
